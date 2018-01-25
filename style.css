@@ -49,7 +49,7 @@ h1, h2, h3 {
 	margin: 0;
 }
 #container {
-	width: 1200px;
+	width: 1000px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -59,8 +59,8 @@ h1, h2, h3 {
 }
 
 
-#nav {
-	padding-bottom: 1000px;
+#nav { 
+	padding-bottom: 500px;
 	background-color: #FFE6D9;
 	float: left;
 	width: 100px;
@@ -82,7 +82,7 @@ h1, h2, h3 {
 
 #main {
 	float: right;
-	width: 1000px;
+	width: 850px;
 	background: rgba(249, 206, 232, .5);
 	padding: 10px;
 }
